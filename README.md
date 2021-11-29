@@ -35,3 +35,18 @@ O que aprendemos nesta aula:
 - O que são schemas compostos;
 - Fazer a validação em sequência;
 - Ter validação com valor obrigatório ou não;
+
+### Aula 04
+
+O que aprendemos nesta aula:
+
+- Deixar uma chave opcional dentro de um schema;
+- Utilizar mapa para ter as chaves dinâmicas.
+
+
+### Aula 05
+
+O que aprendemos nesta aula:
+
+- Utilizar o modelo de schema;
+- Garantir que nosso o schema está validando nosso modelo;
