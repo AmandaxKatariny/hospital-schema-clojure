@@ -26,3 +26,12 @@ O que aprendemos nesta aula:
 - Desativar ou ativar validação;
 - Criar restrições;
 - Utilizar o pos;
+
+### Aula 03
+
+O que aprendemos nesta aula:
+
+- Utilizar uma função para validar os números positivos;
+- O que são schemas compostos;
+- Fazer a validação em sequência;
+- Ter validação com valor obrigatório ou não;
